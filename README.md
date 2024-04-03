@@ -23,5 +23,5 @@
 - 🌱 Estou atualmente aprendendo Java 
 - 📫 Contate-me no email: igoralexcpp@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kronossss&hide_progress=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishinaru&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
