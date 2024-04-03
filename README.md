@@ -1,5 +1,5 @@
 <div>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5kYmlyMnN0YzJ5YmcxOTVjMnI4MXVhMTFrc3cxcnk0enBpbWtpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z6d9wFmrDf30MiH8Vx/giphy.gif">
+    <img src="https://www.behance.net/gallery/137119811/Office-Day/modules/775476603">
 </div>
 
 <div align="center">
